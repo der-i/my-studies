@@ -7,7 +7,7 @@ void PrintIntVec(const std::vector<int> & vecInt)
 	for (const auto &i : vecInt) {
 		std::cout << i << "\t";
 	}
-	
+	std::cout << "hello world!" << std::endl;
 }
 
 int main()
