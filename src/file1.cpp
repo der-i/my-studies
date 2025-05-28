@@ -9,4 +9,7 @@ file1::file1()
 file1::~file1()
 {
 	std::cout << "destructor";
+	std::cout << "destructor";
+	std::cout << "destructor";
+	std::cout << "destructor2";
 }
