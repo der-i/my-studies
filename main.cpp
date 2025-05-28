@@ -12,18 +12,13 @@ void PrintIntVec(const std::vector<int> & vecInt)
 	}for (const auto &i : vecInt) {
 		std::cout << i << "SDFJLKBJJDJ";
 	}
+	std::cout << "hello world!" << std::endl;
 }
 
 int main()
 {
 	std::cout << "hello world!" << std::endl;
 	std::cout << "hello world!" << std::endl;
-	std::cout << "hello world!" << std::endl;
-	std::cout << "hello world!" << std::endl;
-	std::cout << "hello world!" << std::endl;
-	std::cout << "hello world!" << std::endl;
-	std::cout << "hello world!" << std::endl;
-	int a = 2+2;
 	int a = 2+2;
 	int a = 2+2;
 	std::vector<int> vecInt = {4, 5, 6, 7, 1, 2, 3};
